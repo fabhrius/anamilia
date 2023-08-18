@@ -1,0 +1,10 @@
+2023-08-18T21:09:04+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 65536 bytes) in C:\wamp64\www\anamilia\wp-content\plugins\otter-blocks\inc\css\blocks\class-advanced-heading-css.php on line 557
+
+2023-08-18T21:09:06+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in C:\wamp64\www\anamilia\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-terms-controller.php on line 652
+
+2023-08-18T21:09:07+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 131072 bytes) in C:\wamp64\www\anamilia\wp-content\plugins\themify-builder\modules\module-menu.php on line 670
+
+2023-08-18T21:10:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 77824 bytes) in C:\wamp64\www\anamilia\wp-includes\functions.php on line 650
+
+2023-08-18T21:10:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) in C:\wamp64\www\anamilia\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version3\class-wc-rest-terms-controller.php on line 360
+

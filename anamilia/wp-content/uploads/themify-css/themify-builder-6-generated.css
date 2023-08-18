@@ -1,0 +1,24 @@
+/* Generated from page: home */
+.themify_builder_content-6 .tb_oity504.module_row,.themify_builder_content-6 .tb_lfmo181.module_row{padding-top:6%;padding-bottom:6%}
+.themify_builder_content-6 .tb_jayl504.module_subrow,.themify_builder_content-6 .tb_4mgv182.module_subrow{margin-bottom:50px}
+.themify_builder_content-6 .tb_jayl504.module_subrow>.subrow_inner,.themify_builder_content-6 .tb_fd2z510.module_subrow>.subrow_inner,.themify_builder_content-6 .tb_4mgv182.module_subrow>.subrow_inner{--align_content:var(--align_center);--colg:var(--none)}
+.themify_builder_content-6 .tb_ga6f504.module-image,.themify_builder_content-6 .tb_djlv182.module-image{z-index:1}
+.themify_builder_content-6 .tb_0qz3505.module-text,.themify_builder_content-6 .tb_0sgy182.module-text{z-index:3;margin-left:-40px;background-image:none;background-color:#fff;box-shadow:0 0 10px 5px rgba(0, 0, 0, .07);padding:40px}
+.themify_builder_content-6 .tb_xzbm510.module-text{margin-right:-40px;z-index:3;background-image:none;background-color:#fff;box-shadow:0 0 10px 5px rgba(0, 0, 0, .07);padding:40px}
+.themify_builder_content-6 .tb_uhf7510.module-image{z-index:1;margin-left:-10%}
+
+@media(max-width:1280px){
+.themify_builder_content-6 .tb_0qz3505.module-text.module h3,.themify_builder_content-6 .tb_xzbm510.module-text.module h3,.themify_builder_content-6 .tb_0sgy182.module-text.module h3{font-size:36px}
+}
+@media(max-width:768px){
+.themify_builder_content-6 .tb_0qz3505.module-text.module h3,.themify_builder_content-6 .tb_xzbm510.module-text.module h3,.themify_builder_content-6 .tb_0sgy182.module-text.module h3{font-size:30px}
+}
+@media(max-width:680px){
+.themify_builder_content-6 .tb_jayl504.module_subrow>.subrow_inner,.themify_builder_content-6 .tb_4mgv182.module_subrow>.subrow_inner{--area:var(--aream2_auto)}
+.themify_builder_content-6 .tb_ga6f504.module-image,.themify_builder_content-6 .tb_djlv182.module-image{margin-bottom:30px}
+.themify_builder_content-6 .tb_0qz3505.module-text.module h3,.themify_builder_content-6 .tb_xzbm510.module-text.module h3,.themify_builder_content-6 .tb_0sgy182.module-text.module h3{font-size:28px}
+.themify_builder_content-6 .tb_0qz3505.module-text,.themify_builder_content-6 .tb_0sgy182.module-text{margin-left:0}
+.themify_builder_content-6 .tb_fd2z510.module_subrow>.subrow_inner{--area:"col2" "col1"}
+.themify_builder_content-6 .tb_xzbm510.module-text{margin-right:0}
+.themify_builder_content-6 .tb_uhf7510.module-image{margin-bottom:30px;margin-left:0}
+}
