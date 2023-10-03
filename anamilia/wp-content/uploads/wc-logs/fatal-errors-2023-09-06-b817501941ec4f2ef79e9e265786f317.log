@@ -1,0 +1,10 @@
+2023-09-06T00:56:14+00:00 CRITICAL Uncaught TypeError: count(): Argument #1 ($value) must be of type Countable|array, bool given in C:\wamp64\www\anamilia\wp-includes\class-wp-hook.php:294
+Stack trace:
+#0 C:\wamp64\www\anamilia\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', true)
+#1 C:\wamp64\www\anamilia\wp-includes\plugin.php(565): WP_Hook->do_action(true)
+#2 C:\wamp64\www\anamilia\wp-cron.php(191): do_action_ref_array('analytics_track...', true)
+#3 {main}
+  thrown in C:\wamp64\www\anamilia\wp-includes\class-wp-hook.php on line 294
+
+2023-09-06T00:58:38+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in C:\wamp64\www\anamilia\wp-includes\rest-api\class-wp-rest-server.php on line 910
+
