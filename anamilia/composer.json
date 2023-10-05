@@ -1,0 +1,21 @@
+{
+    "name": "fab/anamilia",
+    "type": "project",
+    "require": {
+        "apache/log4php": "^2.3",
+        "facebook/graph-sdk": "^5.7"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Fab\\Anamilia\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "fab"
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+2023-10-05T20:45:16+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\wamp64\www\anamilia\wp-content\plugins\fab-logger-manager/../../../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\wamp64\www\anamilia\wp-content\plugins\fab-logger-manager\fab-logger-manager.php:9
+Stack trace:
+#0 C:\wamp64\www\anamilia\wp-admin\includes\plugin.php(2318): include_once()
+#1 C:\wamp64\www\anamilia\wp-admin\includes\plugin.php(663): plugin_sandbox_scrape('fab-logger-mana...')
+#2 C:\wamp64\www\anamilia\wp-admin\plugins.php(58): activate_plugin('fab-logger-mana...', 'http://localhos...', false)
+#3 {main}
+  thrown in C:\wamp64\www\anamilia\wp-content\plugins\fab-logger-manager\fab-logger-manager.php on line 9
+
+2023-10-05T20:45:19+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\wamp64\www\anamilia\wp-content\plugins\fab-logger-manager/../../../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\wamp64\www\anamilia\wp-content\plugins\fab-logger-manager\fab-logger-manager.php:9
+Stack trace:
+#0 C:\wamp64\www\anamilia\wp-admin\includes\plugin.php(2318): include_once()
+#1 C:\wamp64\www\anamilia\wp-admin\plugins.php(192): plugin_sandbox_scrape('fab-logger-mana...')
+#2 {main}
+  thrown in C:\wamp64\www\anamilia\wp-content\plugins\fab-logger-manager\fab-logger-manager.php on line 9
+
+2023-10-05T20:45:19+00:00 CRITICAL Uncaught Error: Failed opening required 'C:\wamp64\www\anamilia\wp-content\plugins\fab-logger-manager/../../../vendor/autoload.php' (include_path='.;C:\php\pear') in C:\wamp64\www\anamilia\wp-content\plugins\fab-logger-manager\fab-logger-manager.php:9
+Stack trace:
+#0 C:\wamp64\www\anamilia\wp-admin\includes\plugin.php(2318): include_once()
+#1 C:\wamp64\www\anamilia\wp-admin\plugins.php(192): plugin_sandbox_scrape('fab-logger-mana...')
+#2 {main}
+  thrown in C:\wamp64\www\anamilia\wp-content\plugins\fab-logger-manager\fab-logger-manager.php on line 9
+
